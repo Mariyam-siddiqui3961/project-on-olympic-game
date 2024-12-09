@@ -1,0 +1,105 @@
+*{
+    margin: 0%;
+    font-family: Arial;
+    border: border-box;
+    background-color: #f4f4f4;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    color: chocolate;
+
+}
+.para{
+    font-size: 20px;
+    color:crimson;
+    text-align: center;
+}
+.summer{
+    font-size: 25px;
+    color: saddlebrown;
+    text-align: center;  
+}
+.summerimg{
+    display: flex;
+    margin-left: 50px;
+    justify-content: space-evenly;
+}
+.wintering{
+    display: flex;
+    margin-left: 50px;
+    justify-content: space-evenly;
+}
+.paralymicsss{
+    display: flex;
+    margin-left: 50px;
+    justify-content: space-evenly;
+}
+.yogames{
+    display: flex;
+    margin-left: 50px;
+    justify-content: space-evenly;
+}
+.winter{
+    font-size: 25px;
+    color: saddlebrown;
+    text-align: center;
+}
+.paralympics{
+    font-size: 25px;
+    color: saddlebrown;
+    text-align: center;
+}
+.paralymicsimg{
+    display: flex;
+}
+.yog{
+    font-size: 25px;
+    color: saddlebrown;
+    text-align: center;
+}
+.images1{
+    margin: 5px 10px 5px 10px;
+    display: flex;
+    flex-wrap:wrap;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+.images2{
+    margin: 5px 10px 5px 10px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content:space-around;
+}
+.images3{
+    margin: 5px 10px 5px 10px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content:space-around;
+}
+.images4{
+    margin: 5px 10px 5px 10px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content:space-around;
+    flex-direction: row;
+}
+.wholeimage{
+    margin: 5px 10px 5px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content:space-around;
+    flex-direction: row;
+}
